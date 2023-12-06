@@ -1,5 +1,5 @@
 {
-  "name": "scroll-finance",
+  "name": "mortgage-manager",
   "dependencies": {
     "@auth0/auth0-spa-js": "^2.0.0",
     "@gtm-support/vue-gtm": "^2.0.0",
